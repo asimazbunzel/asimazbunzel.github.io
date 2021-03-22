@@ -23,5 +23,5 @@ currently detecting.
 
 I am also interested in the study of transient events such as Supernovae and how they proceed. For that I am
 collaborating with the SOS group of the FCAGLP (@ UNLP) which specialize in the modelling and observations of
-any type of core-collapse Supernovae. I am also collaborating with the French group @ CEA SACLAY to study the
+any type of core-collapse Supernovae. I am also collaborating with the French group @ CEA SACLAY (Paris) to study the
 details of core-collapse and natal-kicks onto compact objects using 3D models.
