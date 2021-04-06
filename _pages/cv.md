@@ -39,7 +39,7 @@ Skills
   * git
 * Writing:
   * LaTeX, Markdown
-* Cluster usage: Torque with PBS submission
+* Cluster usage: Torque with PBS submission and Slurm
 
 Publications
 ======
@@ -63,4 +63,4 @@ Teaching
 
 Miscellaneous
 ======
-* Check out my codes at my [github account](https://github.com/AdolfoSimazBunzel)
+* Check out my codes at my [github account](https://github.com/asimazbunzel)
