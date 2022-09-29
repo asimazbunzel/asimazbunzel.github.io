@@ -17,7 +17,7 @@ paginate = 5
   themeColor = "blue"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 100
 
   # show selector to switch language
   showLanguageSelector = false
@@ -26,7 +26,7 @@ paginate = 5
   fullWidthTheme = false
 
   # center theme with default width
-  centerTheme = false
+  centerTheme = true
 
   # if your resource directory contains an image called `cover.(jpg|png|webp)`,
   # then the file will be used as a cover automatically.
@@ -80,7 +80,11 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
-      [[languanges.en.menu.main]]
+      [[languages.en.menu.main]]
+        identifier = "projects"
+        name = "projects"
+        url = "/projects"
+      [[languages.en.menu.main]]
         identifier = "cv"
         name = "CV"
         url = "/cv"
