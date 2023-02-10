@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>A. Simaz Bunzel</title><link>https://asimazbunzel.github.io/</link><description>Recent content on A. Simaz Bunzel</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://asimazbunzel.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://asimazbunzel.github.io/about/</link><pubDate>Mon, 31 Jan 2022 14:32:13 -0300</pubDate><guid>https://asimazbunzel.github.io/about/</guid><description>My interests involve:
+Stellar evolution of massive binaries
+The main topic of my research as a PhD student involves the study of the binary evolution of progenitors of double compact objects which are the sources of gravitational waves that the LIGO/Virgo collaboration is currently detecting
+Final stages of stellar evolution
+I am also interested in the study of powerful transients connected to the end points of stellar-evolution of massive stars, such as Supernovae.</description><content>&lt;p>My interests involve:&lt;/p>
+&lt;p>&lt;strong>Stellar evolution of massive binaries&lt;/strong>&lt;/p>
+&lt;p>The main topic of my research as a PhD student involves the study of the binary evolution of
+progenitors of double compact objects which are the sources of gravitational waves that the
+LIGO/Virgo collaboration is currently detecting&lt;/p>
+&lt;p>&lt;strong>Final stages of stellar evolution&lt;/strong>&lt;/p>
+&lt;p>I am also interested in the study of powerful transients connected to the end points of
+stellar-evolution of massive stars, such as Supernovae. In addition to this, its role is extremely
+important for progenitors of gravitational waves as asymmetries happening during this transient
+phenomena can change the parameters of the binary&lt;/p>
+&lt;p>&lt;strong>Technology misc&lt;/strong>&lt;/p>
+&lt;p>Apart from science, I like to code on my free time whatever I feel like. Most of the things I code
+can be found in my &lt;a href="https://github.com/asimazbunzel">GitHub profile&lt;/a>&lt;/p>
+&lt;hr>
+&lt;ul>
+&lt;li>Contact&lt;/li>
+&lt;/ul>
+&lt;p>email: &lt;a href="mailto:asimazbunzel@gmail.com">asimazbunzel@gmail.com&lt;/a>&lt;/p></content></item><item><title>CV</title><link>https://asimazbunzel.github.io/cv/</link><pubDate>Mon, 31 Jan 2022 14:32:13 -0300</pubDate><guid>https://asimazbunzel.github.io/cv/</guid><description>TBD</description><content>&lt;p>TBD&lt;/p></content></item><item><title>Evolution of eccentric high-mass X-ray binaries. The case of GX 301-2</title><link>https://asimazbunzel.github.io/academics/gx301/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://asimazbunzel.github.io/academics/gx301/</guid><description>In this work, we explore a large set of stellar-evolution models aim at reproducing current measurements of this very rare binary. special attention is put on the core-collapse and the assymetries happening at that moment as it seems they are needed to explain what the binary looks nowadays.
+A GitHub repository contains all the source code to produce the raw data as well as scripts to reproduce all the figures in the manuscript.</description><content>&lt;p>In this work, we explore a large set of stellar-evolution models aim at
+reproducing current measurements of this very rare binary. special attention is put on the
+core-collapse and the assymetries happening at that moment as it seems they are needed to explain
+what the binary looks nowadays.&lt;/p>
+&lt;p>&lt;em>A GitHub repository contains all the source code to produce the raw data as well as scripts to
+reproduce all the figures in the manuscript. I strongly support a reproducible science approach&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>Link to the paper: &lt;a href="https://ui.adsabs.harvard.edu/abs/2022arxiv221211881s/abstract">astrophysics data system&lt;/a> (FREE)&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>Zenodo repository: &lt;a href="https://zenodo.org/record/7261481">GX 301-2&lt;/a>&lt;/p>
+&lt;/blockquote></content></item><item><title>Impact of tides on non-coplanar orbits of progenitors of high-mass X-ray binaries</title><link>https://asimazbunzel.github.io/academics/tides/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://asimazbunzel.github.io/academics/tides/</guid><description>An interesting topic regarding the role of tides (like the ones acting on the oceans due to the moon and the earth not being a solid body) on binaries containing a common-type star and a compact-object (neutron star or black hole). it turns out, they are very important in predicting a lot of stellar (and binary) parameters !
+A GitHub repository contains all the source code to produce the raw data as well as scripts to reproduce all the figures in the manuscript.</description><content>&lt;p>An interesting topic regarding the role of tides (like the ones acting on the oceans due to the
+moon and the earth not being a solid body) on binaries containing a common-type star and a
+compact-object (neutron star or black hole). it turns out, they are very important in predicting a
+lot of stellar (and binary) parameters !&lt;/p>
+&lt;p>&lt;em>A GitHub repository contains all the source code to produce the raw data as well as scripts to
+reproduce all the figures in the manuscript. I strongly support a reproducible science approach&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>Link to the paper: &lt;a href="https://ui.adsabs.harvard.edu/abs/2023A%26A...670A..45S/abstract">astrophysics data system&lt;/a> (FREE)&lt;/p>
+&lt;/blockquote></content></item><item><title>Progenitors of low-mass binary black-hole mergers in the isolated binary evolution scenario</title><link>https://asimazbunzel.github.io/academics/lowmassbbh/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://asimazbunzel.github.io/academics/lowmassbbh/</guid><description>We explore various stellar parameters which produce low-mass binary black-holes. These binaries were first detected by the gravitational waves interferometers of LIGO and Virgo !
+A GitHub repository contains all the source code to produce the raw data as well as scripts to reproduce all the figures in the manuscript. I strongly support a reproducible science approach
+Link to the paper: astrophysics data system (FREE)</description><content>&lt;p>We explore various stellar parameters which produce low-mass binary black-holes. These binaries
+were first detected by the gravitational waves interferometers of LIGO and Virgo !&lt;/p>
+&lt;p>&lt;em>A GitHub repository contains all the source code to produce the raw data as well as scripts to
+reproduce all the figures in the manuscript. I strongly support a reproducible science approach&lt;/em>&lt;/p>
+&lt;blockquote>
+&lt;p>Link to the paper: &lt;a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...649A.114G/abstract">astrophysics data system&lt;/a> (FREE)&lt;/p>
+&lt;/blockquote></content></item><item><title>Some more contributions</title><link>https://asimazbunzel.github.io/academics/more/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://asimazbunzel.github.io/academics/more/</guid><description>I have participated in several other works:
+A catalogue of high-mass X-ray binaries in the Galaxy: from the INTEGRAL to the Gaia era &amp;raquo; This is an online catalog of high-mass X-ray binaries with the advantage over previous ones in that it is actively maintained by a team using GitHub pages.
+Interaction of a high-mass X-ray binary with the interstellar medium through stellar wind. The case of GX 301-2 &amp;raquo; My contribution in this work is related to the stellar-evolution model of a progenitor for the binary.</description><content>&lt;p>I have participated in several other works:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230202656F/abstract">A catalogue of high-mass X-ray binaries in the Galaxy: from the INTEGRAL to the Gaia era&lt;/a> &amp;raquo; This is an online catalog of high-mass
+X-ray binaries with the advantage over previous ones in that it is actively maintained by a team
+using GitHub pages.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221206623M/abstract">Interaction of a high-mass X-ray binary with the interstellar medium through stellar wind. The case of GX 301-2&lt;/a> &amp;raquo; My contribution
+in this work is related to the stellar-evolution model of a progenitor for the binary. Here the
+focus is set on the contribution of the high-mass X-ray binary to pollute the medium with gas to
+trigger stellar formation.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2022A%26A...665A..31F/abstract">Constraints to neutron-star kicks in high-mass X-ray binaries with Gaia EDR3&lt;/a> &amp;raquo; Statistical study of natal kicks produced during
+the end point in the stellar-evolution of massive stars in progenitors of high-mass X-ray binaries.
+Interesingly, we find a more complex distribution for the natal kicks produced due to the
+assymetries, than those find in isolated pulsars !&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...909..145D/abstract">SN 2013ai: A Link between Hydrogen-rich and Hydrogen-poor Core-collapse Supernovae&lt;/a> &amp;raquo; My contribution included a stellar-evolution
+model for the progenitor system. The work is much more complete with lots of analysis of
+observational data !&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2022ATel15638....1Z/abstract">Confirmation of glitch event observed in PSR J0742-2822 at the Argentine Institute of Radioastronomy (IAR)&lt;/a> &amp;raquo; Astronomy telegram
+with a glitch event of a known pulsar. Data taken from @IAR !&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
+&lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...908..158S/abstract">PSR J0437-4715: The Argentine Institute of Radioastronomy 2019-2020 Observational Campaign&lt;/a> &amp;raquo; Analysis of radio observations taken
+with the two (radio) telescopes located @IAR (my workplace !)&lt;/p>
+&lt;/blockquote></content></item></channel></rss>
