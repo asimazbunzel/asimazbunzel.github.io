@@ -3,7 +3,7 @@
 #title = 'Adolfo Simaz Bunzel'
 #theme = 'terminal'
 
-baseurl = "/"
+baseurl = "https://asimazbunzel.github.io"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
