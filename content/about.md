@@ -1,29 +1,29 @@
 ---
 title: "About"
 date: 2022-01-31T14:32:13-03:00
-draft: true
 ---
 
-Hi ! I'm Adolfo, an astronomer and PhD student from Argentina
+My interests involve:
 
 **Stellar evolution of massive binaries**
 
-The main topic of my research as a student involves the study of the binary evolution of progenitors of double compact
-objects which are the sources of gravitational waves that the LIGO/Virgo collaboration is currently detecting
+The main topic of my research as a PhD student involves the study of the binary evolution of
+progenitors of double compact objects which are the sources of gravitational waves that the
+LIGO/Virgo collaboration is currently detecting
 
 **Final stages of stellar evolution**
 
-I am also interested in the study of powerful transients connected to the end points of stellar evolution of massive stars,
-such as Supernovae. In addition to this, its role is extremely important for progenitors of gravitational waves as
-asymmetries happening during this transient phenomena can change the parameters of the binary
+I am also interested in the study of powerful transients connected to the end points of
+stellar-evolution of massive stars, such as Supernovae. In addition to this, its role is extremely
+important for progenitors of gravitational waves as asymmetries happening during this transient
+phenomena can change the parameters of the binary
 
 **Technology misc**
 
-Apart from science, I like to code on my free time whatever I feel like. Most of the things I code can be found in my
-[GitHub profile](https://github.com/asimazbunzel)
+Apart from science, I like to code on my free time whatever I feel like. Most of the things I code
+can be found in my [GitHub profile](https://github.com/asimazbunzel)
 
 ---
-
 
 * Contact
 
