@@ -81,6 +81,10 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
+        identifier = "academics"
+        name = "academics"
+        url = "/academics"
+      [[languages.en.menu.main]]
         identifier = "projects"
         name = "projects"
         url = "/projects"
