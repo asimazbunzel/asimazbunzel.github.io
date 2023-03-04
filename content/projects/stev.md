@@ -4,8 +4,16 @@ title: "Stellar Evolution models"
 
 I will slowly explain the programs developed during my PhD to explore a wide range of stellar binaries using the publicly-available stellar-evolution code MESA...
 
-* stevma
+stevma
+---
 
-* stevdb
+Stellar Evolution manager.
 
-* stevws
+stevdb
+---
+
+Stellar Evolution database manager.
+
+stevws
+---
+Stellar Evolution web server.
