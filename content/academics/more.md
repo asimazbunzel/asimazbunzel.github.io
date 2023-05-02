@@ -6,8 +6,9 @@ date: 2023-01-31t14:32:13-03:00
 I have participated in several other works:
 
 > [A catalogue of high-mass X-ray binaries in the Galaxy: from the INTEGRAL to the Gaia era](https://ui.adsabs.harvard.edu/abs/2023arXiv230202656F/abstract) >> This is an online catalog of high-mass
-X-ray binaries with the advantage over previous ones in that it is actively maintained by a team
-using GitHub pages.
+X-ray binaries with the advantage over previous ones in that it is actively maintained by our
+team, [Binary-rEvolution](https://github.com/Binary-rEvolution), in GitHub:
+[HMXB catalog](https://binary-revolution.github.io/HMXBwebcat/)
 
 > [Interaction of a high-mass X-ray binary with the interstellar medium through stellar wind. The case of GX 301-2](https://ui.adsabs.harvard.edu/abs/2022arXiv221206623M/abstract) >> My contribution
 in this work is related to the stellar-evolution model of a progenitor for the binary. Here the
@@ -24,7 +25,7 @@ model for the progenitor system. The work is much more complete with lots of ana
 observational data !
 
 > [Confirmation of glitch event observed in PSR J0742-2822 at the Argentine Institute of Radioastronomy (IAR)](https://ui.adsabs.harvard.edu/abs/2022ATel15638....1Z/abstract) >> Astronomy telegram
-with a glitch event of a known pulsar. Data taken from @IAR !
+with a glitch event of a known pulsar. Data taken from [@IAR](https://www.iar.unlp.edu.ar/) !
 
 > [PSR J0437-4715: The Argentine Institute of Radioastronomy 2019-2020 Observational Campaign](https://ui.adsabs.harvard.edu/abs/2021ApJ...908..158S/abstract) >> Analysis of radio observations taken
-with the two (radio) telescopes located @IAR (my workplace !)
+with the two (radio) telescopes located [@IAR](https://www.iar.unlp.edu.ar/) (my workplace !)
