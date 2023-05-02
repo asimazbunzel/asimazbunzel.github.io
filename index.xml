@@ -55,12 +55,13 @@ reproduce all the figures in the manuscript. I strongly support a reproducible s
 &lt;blockquote>
 &lt;p>Link to the paper: &lt;a href="https://ui.adsabs.harvard.edu/abs/2021A%26A...649A.114G/abstract">astrophysics data system&lt;/a> (FREE)&lt;/p>
 &lt;/blockquote></content></item><item><title>Some more contributions</title><link>https://asimazbunzel.github.io/academics/more/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://asimazbunzel.github.io/academics/more/</guid><description>I have participated in several other works:
-A catalogue of high-mass X-ray binaries in the Galaxy: from the INTEGRAL to the Gaia era &amp;raquo; This is an online catalog of high-mass X-ray binaries with the advantage over previous ones in that it is actively maintained by a team using GitHub pages.
+A catalogue of high-mass X-ray binaries in the Galaxy: from the INTEGRAL to the Gaia era &amp;raquo; This is an online catalog of high-mass X-ray binaries with the advantage over previous ones in that it is actively maintained by our team, Binary-rEvolution, in GitHub: HMXB catalog
 Interaction of a high-mass X-ray binary with the interstellar medium through stellar wind. The case of GX 301-2 &amp;raquo; My contribution in this work is related to the stellar-evolution model of a progenitor for the binary.</description><content>&lt;p>I have participated in several other works:&lt;/p>
 &lt;blockquote>
 &lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2023arXiv230202656F/abstract">A catalogue of high-mass X-ray binaries in the Galaxy: from the INTEGRAL to the Gaia era&lt;/a> &amp;raquo; This is an online catalog of high-mass
-X-ray binaries with the advantage over previous ones in that it is actively maintained by a team
-using GitHub pages.&lt;/p>
+X-ray binaries with the advantage over previous ones in that it is actively maintained by our
+team, &lt;a href="https://github.com/Binary-rEvolution">Binary-rEvolution&lt;/a>, in GitHub:
+&lt;a href="https://binary-revolution.github.io/HMXBwebcat/">HMXB catalog&lt;/a>&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221206623M/abstract">Interaction of a high-mass X-ray binary with the interstellar medium through stellar wind. The case of GX 301-2&lt;/a> &amp;raquo; My contribution
@@ -81,11 +82,11 @@ observational data !&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2022ATel15638....1Z/abstract">Confirmation of glitch event observed in PSR J0742-2822 at the Argentine Institute of Radioastronomy (IAR)&lt;/a> &amp;raquo; Astronomy telegram
-with a glitch event of a known pulsar. Data taken from @IAR !&lt;/p>
+with a glitch event of a known pulsar. Data taken from &lt;a href="https://www.iar.unlp.edu.ar/">@IAR&lt;/a> !&lt;/p>
 &lt;/blockquote>
 &lt;blockquote>
 &lt;p>&lt;a href="https://ui.adsabs.harvard.edu/abs/2021ApJ...908..158S/abstract">PSR J0437-4715: The Argentine Institute of Radioastronomy 2019-2020 Observational Campaign&lt;/a> &amp;raquo; Analysis of radio observations taken
-with the two (radio) telescopes located @IAR (my workplace !)&lt;/p>
+with the two (radio) telescopes located &lt;a href="https://www.iar.unlp.edu.ar/">@IAR&lt;/a> (my workplace !)&lt;/p>
 &lt;/blockquote></content></item><item><title>Stellar Evolution models</title><link>https://asimazbunzel.github.io/projects/stev/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://asimazbunzel.github.io/projects/stev/</guid><description>I will slowly explain the programs developed during my PhD to explore a wide range of stellar binaries using the publicly-available stellar-evolution code MESA&amp;hellip;
 stevma Stellar Evolution manager.
 stevdb Stellar Evolution database manager.
